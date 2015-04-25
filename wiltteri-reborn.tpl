@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504252041
+# Version: 201504252105
 # Title: Wiltteri Reborn
 # Description: Finnish supplement list for EasyList
-# Last modified: 25 Apr 2015 20:41 UTC
+# Last modified: 25 Apr 2015 21:05 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
@@ -47,4 +47,5 @@ msFilterList
 -d tyonantaja.oikotie.fi
 # -------------------- whitelist-block.txt -------------------- !
 +d www.op.fi /mainokset/
+# Foxplay.fi
 # Ruutu.fi

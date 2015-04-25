@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sYfryTZXXAD30Emg1S8wsw
-! Version: 201504252041
+! Checksum: 7cS6RsoTTTG4eq0+WCcc/w
+! Version: 201504252105
 ! Title: Wiltteri Reborn
 ! Description: Finnish supplement list for EasyList
-! Last modified: 25 Apr 2015 20:41 UTC
+! Last modified: 25 Apr 2015 21:05 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/wiltteri/
 ! License: http://unlicense.org/
@@ -97,6 +97,11 @@ kaleva.fi##.grey-container
 ||tyonantaja.oikotie.fi^$third-party
 ! -------------------- whitelist-block.txt -------------------- !
 @@||www.op.fi^*/mainokset/
+! Foxplay.fi
+@@||analytics.edgekey.net^*/akamaiAnalyticsPDKLoader.js$third-party,domain=foxplay.fi
+@@||ficgohub.com^*/doubleclick.js$third-party,domain=foxplay.fi
+@@||imasdk.googleapis.com/js/core/bridge3.$subdocument,third-party,domain=foxplay.fi
+@@||imasdk.googleapis.com^*/ima3.js$third-party,domain=foxplay.fi
 ! Ruutu.fi
 @@||adtech.de/?adrawdata/$object-subrequest,third-party,domain=groovefm.fi|hs.fi|iltasanomat.fi|istv.fi|jimtv.fi|livtv.fi|loop.fi|metrohelsinki.fi|nelonen.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruutu.fi
 @@||nelonenmedia.fi^*/logo/$object-subrequest,third-party,domain=groovefm.fi|hs.fi|iltasanomat.fi|istv.fi|jimtv.fi|livtv.fi|loop.fi|metrohelsinki.fi|nelonen.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruutu.fi
