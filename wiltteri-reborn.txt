@@ -1,0 +1,17 @@
+[Adblock Plus 2.0]
+! Checksum: QFZxfOkCygNyDDZWxZApqw
+! Version: 201504251915
+! Title: Wiltteri Reborn
+! Description: Finnish supplement list for EasyList
+! Last modified: 25 Apr 2015 19:15 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/wiltteri/
+! License: http://unlicense.org/
+!
+! -------------------- general-block.txt -------------------- !
+! -------------------- general-hide.txt -------------------- !
+! -------------------- specific-block.txt -------------------- !
+! -------------------- specific-hide.txt -------------------- !
+! -------------------- thirdparty.txt -------------------- !
+! -------------------- whitelist-block.txt -------------------- !
+! -------------------- whitelist-hide.txt -------------------- !
