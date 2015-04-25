@@ -1,17 +1,92 @@
 [Adblock Plus 2.0]
-! Checksum: QFZxfOkCygNyDDZWxZApqw
-! Version: 201504251915
+! Checksum: Tsz9XtqOTDNo9qxtkquAQA
+! Version: 201504251941
 ! Title: Wiltteri Reborn
 ! Description: Finnish supplement list for EasyList
-! Last modified: 25 Apr 2015 19:15 UTC
+! Last modified: 25 Apr 2015 19:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/wiltteri/
 ! License: http://unlicense.org/
 !
 ! -------------------- general-block.txt -------------------- !
+/mainokset.
+/mainokset/*
+/mainokset_
+/mainos.
+/mainos/*
+/mainos_
+/mainosbanneri.
+/mainosbanneri/*
+/mainosbanneri_
+/mainosbannerit.
+/mainosbannerit/*
+/mainosbannerit_
+/mainoskaruselli.
+/mainoskaruselli/*
+/mainoskaruselli_
+/sponsorit.
+/sponsorit/*
+/sponsorit_
+/yhteistyokumppanit.
+/yhteistyokumppanit/*
+/yhteistyokumppanit_
+/yhteistyossa.
+/yhteistyossa/*
+/yhteistyossa_
+_mainos.
+_mainosnappi.
 ! -------------------- general-hide.txt -------------------- !
+###keskimainos
+###mainokset
+###mainokset_oikea
+###mainokset_vasen
+###mainokset_yla
+###mainos
+###mainosbanneri
+###mainosbannerit
+###mainoskaruselli
+###mainoslaatikko
+###mainospaikka
+###mainostila
+###sponsori
+###sponsorit
+###yhteistyokaruselli
+###yhteistyokumppanit
+###yhteistyossa
+###ylamainokset
+###ylamainos
+##.keskimainos
+##.mainokset
+##.mainokset_oikea
+##.mainokset_vasen
+##.mainokset_yla
+##.mainos
+##.mainosbanneri
+##.mainosbannerit
+##.mainoskaruselli
+##.mainoslaatikko
+##.mainospaikka
+##.mainostila
+##.sponsori
+##.sponsorit
+##.yhteistyokaruselli
+##.yhteistyokumppanit
+##.yhteistyossa
+##.ylamainokset
+##.ylamainos
 ! -------------------- specific-block.txt -------------------- !
 ! -------------------- specific-hide.txt -------------------- !
+kaleva.fi##.grey-container
 ! -------------------- thirdparty.txt -------------------- !
 ! -------------------- whitelist-block.txt -------------------- !
+@@||www.op.fi^*/mainokset/
+! Ruutu.fi
+@@||adtech.de/?adrawdata/$object-subrequest,third-party,domain=groovefm.fi|hs.fi|iltasanomat.fi|istv.fi|jimtv.fi|livtv.fi|loop.fi|metrohelsinki.fi|nelonen.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruutu.fi
+@@||nelonenmedia.fi^*/logo/$object-subrequest,third-party,domain=groovefm.fi|hs.fi|iltasanomat.fi|istv.fi|jimtv.fi|livtv.fi|loop.fi|metrohelsinki.fi|nelonen.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruutu.fi
 ! -------------------- whitelist-hide.txt -------------------- !
+tilannehuone.fi#@#.mainos
+lamminveto.com#@#.sponsorit
+! EasyList fixes
+download.fi#@##ad-top-banner-placeholder
+ylilauta.org#@##hideads
+hervannansanomat.fi#@#.ads-left
