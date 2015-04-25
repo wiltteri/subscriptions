@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504251941
+# Version: 201504252029
 # Title: Wiltteri Reborn
 # Description: Finnish supplement list for EasyList
-# Last modified: 25 Apr 2015 19:41 UTC
+# Last modified: 25 Apr 2015 20:29 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
@@ -35,7 +35,11 @@ msFilterList
 - _mainos.
 - _mainosnappi.
 # -------------------- specific-block.txt -------------------- !
+-d xracing.fi /tiedostot/
 # -------------------- thirdparty.txt -------------------- !
+# Sanoma
+-d oikotie.fi /ext/
+-d tyonantaja.oikotie.fi
 # -------------------- whitelist-block.txt -------------------- !
 +d www.op.fi /mainokset/
 # Ruutu.fi

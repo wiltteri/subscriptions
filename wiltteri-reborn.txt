@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Tsz9XtqOTDNo9qxtkquAQA
-! Version: 201504251941
+! Checksum: ZQ0ThYkrgjgYrCZ/emLHBw
+! Version: 201504252029
 ! Title: Wiltteri Reborn
 ! Description: Finnish supplement list for EasyList
-! Last modified: 25 Apr 2015 19:41 UTC
+! Last modified: 25 Apr 2015 20:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/wiltteri/
 ! License: http://unlicense.org/
@@ -75,9 +75,19 @@ _mainosnappi.
 ##.ylamainokset
 ##.ylamainos
 ! -------------------- specific-block.txt -------------------- !
+||xracing.fi/tiedostot/
 ! -------------------- specific-hide.txt -------------------- !
+mbnet.fi###topbanner
+mbnet.fi###tyopaikat-joblift--avainpaikat
 kaleva.fi##.grey-container
 ! -------------------- thirdparty.txt -------------------- !
+! Sanoma
+||ko.snstatic.fi^$subdocument,third-party
+||oikotie.fi/ext/$third-party
+||sanomamagazines.fi^*/promobox/$subdocument,third-party
+||tiede.fi/uutisboksi/$subdocument,third-party
+||tiede.fi^*/promobox/$subdocument,third-party
+||tyonantaja.oikotie.fi^$third-party
 ! -------------------- whitelist-block.txt -------------------- !
 @@||www.op.fi^*/mainokset/
 ! Ruutu.fi
