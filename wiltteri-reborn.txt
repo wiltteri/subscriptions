@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fxz/r93rfR+XwS2qACCaHg
-! Version: 201504261717
+! Checksum: e9DT5HTGjSNnAx9M9x9Wzg
+! Version: 201504261843
 ! Title: Wiltteri Reborn
 ! Description: Finnish supplement list for EasyList
-! Last modified: 26 Apr 2015 17:17 UTC
+! Last modified: 26 Apr 2015 18:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/wiltteri/
 ! License: http://unlicense.org/
@@ -77,10 +77,12 @@ _mainosnappi.
 ! -------------------- specific-block.txt -------------------- !
 ||autolomat.fi^*/bannerit/
 ||autoluettelo.fi/aka/news/*banner
+||avoimet.com/javascript/*_suomi.js
 ||fin5.fi/wp-content/uploads/*palkki_
 ||goldenring.fi^*/banners/
 ||heinola.net^*/banners/
 ||palloliitto.fi^*/sponsor-main-logo/
+||tekniikkaparkki.fi/wp-content/uploads/*_banneri_
 ||vuokralaiset.fi/bannerit2012/
 ||xracing.fi/tiedostot/
 ! -------------------- specific-hide.txt -------------------- !
@@ -94,12 +96,15 @@ tivi.fi##.ad
 fin5.fi##.contentright_right
 yritysporssi.fi##.footer_logos
 kaleva.fi##.grey-container
+akkukauppa.com##.ribbon + table
 devilskuopio.fi##table[height="5"]
 devilskuopio.fi##td[background$="oikearasteri.gif"]
+liikuntakeskus.info##td[style="width:175px;"] a[target="_blank"]
 ! -------------------- thirdparty.txt -------------------- !
 ||dv.fi/content/images/stories/misc/$third-party,domain=digivideo.fi
 ||helskv.com^*/Logot/$third-party,domain=helsinginkisaveikot.fi
 ||uratie.fi^$third-party
+||veikkaus.info/message.html$subdocument,third-party,domain=avoimet.com
 ! Sanoma
 ||ko.snstatic.fi^$subdocument,third-party
 ||oikotie.fi/ext/$third-party
