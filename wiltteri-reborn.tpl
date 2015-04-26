@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504261425
+# Version: 201504261717
 # Title: Wiltteri Reborn
 # Description: Finnish supplement list for EasyList
-# Last modified: 26 Apr 2015 14:25 UTC
+# Last modified: 26 Apr 2015 17:17 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
