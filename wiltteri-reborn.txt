@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FsGCxO74AuQb9wSBCVHRbA
-! Version: 201504271314
+! Checksum: 2laVqWKsT2+HZUvilNwKjw
+! Version: 201504271718
 ! Title: Wiltteri Reborn
 ! Description: Finnish supplement list for EasyList
-! Last modified: 27 Apr 2015 13:14 UTC
+! Last modified: 27 Apr 2015 17:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/wiltteri/
 ! License: http://unlicense.org/
@@ -82,7 +82,10 @@ _mainosnappi.
 ||goldenring.fi^*/banners/
 ||heinola.net^*/banners/
 ||nesteoilrallyfinland.fi/images/thumbs/
+||oldstory.fi/wp-content/uploads/*logot_alarimpsu_
+||oldstory.fi/wp-content/uploads/*ylabanneri_
 ||palloliitto.fi^*/sponsor-main-logo/
+||riverball.fi^*/banners/
 ||tekniikkaparkki.fi/wp-content/uploads/*_banneri_
 ||vuokralaiset.fi/bannerit2012/
 ||xracing.fi/tiedostot/
@@ -94,6 +97,7 @@ autolomat.fi###colu3
 liike.fi###footer-right
 finlandiamarathon.fi###partners
 jokipojat.com###right
+runoviikko.fi###right .sidebar-text:last-of-type
 mbnet.fi###topbanner
 mbnet.fi###tyopaikat-joblift--avainpaikat
 tivi.fi##.ad
