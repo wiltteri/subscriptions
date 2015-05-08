@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GZMnQdrw0bDY59X9/woX7Q
-! Version: 201504281600
+! Checksum: ifRxyiCTg0+ODH7jTmYXtg
+! Version: 201505081744
 ! Title: Wiltteri Reborn
 ! Description: Finnish supplement list for EasyList
-! Last modified: 28 Apr 2015 16:00 UTC
+! Last modified: 08 May 2015 17:44 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/wiltteri/
 ! License: http://unlicense.org/
@@ -91,6 +91,7 @@ _mainosnappi.
 ||riverball.fi^*/banners/
 ||takilta.fi^*/banners/
 ||tekniikkaparkki.fi/wp-content/uploads/*_banneri_
+||telkku.com^*/images/nostot/
 ||vuokralaiset.fi/bannerit2012/
 ||xracing.fi/tiedostot/
 ! -------------------- specific-hide.txt -------------------- !
@@ -100,12 +101,14 @@ nesteoilrallyfinland.fi###bannerRoulette
 foreca.fi###box-banner
 autolomat.fi###colu3
 liike.fi###footer-right
+telkku.com###footerBoxAdWrapper
 finlandiamarathon.fi###partners
 jokipojat.com###right
 runoviikko.fi###right .sidebar-text:last-of-type
 como.fi,hifimaailma.fi,inferno.fi,rumba.fi,rytmi.com,soundi.fi,tilt.fi###secondary a[target="_blank"]
 foreca.fi###side-banners
 pesaysit.fi###top
+telkku.com###topBannerWrapper
 mbnet.fi###topbanner
 mbnet.fi###tyopaikat-joblift--avainpaikat
 tivi.fi##.ad
@@ -131,6 +134,12 @@ liikuntakeskus.info##td[style="width:175px;"] a[target="_blank"]
 ||helskv.com^*/Logot/$third-party,domain=helsinginkisaveikot.fi
 ||uratie.fi^$third-party
 ||veikkaus.info/message.html$subdocument,third-party,domain=avoimet.com
+! Alma Media
+||autotalli.com^$subdocument,third-party
+||eas.almamedia.fi^$script,third-party
+||etuovi.com^$subdocument,third-party
+||iltalehti.fi^$subdocument,third-party
+||jdn.monster.com^$script,third-party
 ! Sanoma
 ||ko.snstatic.fi^$subdocument,third-party
 ||oikotie.fi/ext/$third-party
